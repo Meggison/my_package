@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: my_package
+Version: 0.1
+Summary: EDSA example python package
+Home-page: github.com/Meggison/my_package
+Author: Meggison
+Author-email: meggisonoritsemisan@gmail.com
+License: MIT
+Requires-Dist: numpy
+
+# my package
+This is a library for doing something.
+
+## Installation
+You can install it via pip:
+```bash
+pip install my_package
+```
